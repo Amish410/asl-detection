@@ -1,1 +1,1 @@
-# asl-detection
+# ASL Detection
